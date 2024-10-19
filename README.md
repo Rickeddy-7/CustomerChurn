@@ -29,6 +29,6 @@ The task is to create a dashboard in Power BI for the reflects all relevant Key 
 - Consider targeted promotions or family plan options that could add value for customers with dependants. Provide additional features or services that cater to families, such as family bundles or shared benefits.
 
 ## Skills:
-Data Visualisation, PowerBI, DAX, Data Analysis
+PowerBI: Data Visualisation, DAX, Data Analysis
 
 
